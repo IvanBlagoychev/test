@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teamcity", "teamcity\teamcity.csproj", "{DB98AE1B-BCAE-411A-AD33-3A8CD4560DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB98AE1B-BCAE-411A-AD33-3A8CD4560DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB98AE1B-BCAE-411A-AD33-3A8CD4560DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB98AE1B-BCAE-411A-AD33-3A8CD4560DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB98AE1B-BCAE-411A-AD33-3A8CD4560DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565F606C-716F-4CBB-906E-E00453102789}
+	EndGlobalSection
+EndGlobal
